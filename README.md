@@ -1,4 +1,4 @@
-<img src="https://github.com/blackcater/blackcater/blob/main/images/banner.gif" height="100"/ align="center">
+<h1><img src="https://github.com/blackcater/blackcater/blob/main/images/banner.gif" height="100"/ align="center"></h1>
 <h1 align="center">Hi there, I'm Pavel Vinogradov</h1>
 <h3 align="center">QA Automation Engineer</h3>
 
