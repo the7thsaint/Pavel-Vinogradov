@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Alina Sheyanova
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Pavel Vinogradov
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif](https://github.com/blackcater/blackcater/blob/main/images/banner.gif" height="32"/></h1>
 <h3 align="center">QA Automation Engineerr</h3>
 
 ### My stack: 
